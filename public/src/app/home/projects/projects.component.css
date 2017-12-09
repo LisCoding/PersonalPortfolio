@@ -1,0 +1,27 @@
+
+.projects-list {
+  margin-top: 30px;
+}
+
+.image, .content {
+  display: inline-block;
+  vertical-align: top;
+
+}
+ .content {
+   margin-left: 40px;
+   width: 400px;
+ }
+
+ .image {
+   margin-top: 22px;
+ }
+ p {
+   line-height: 30px;
+   font-size: 18px;
+ }
+ h1{
+  font-family: sans-serif;
+  text-align: center;
+  color: #9900ff;
+ }
