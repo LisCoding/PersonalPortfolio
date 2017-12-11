@@ -3,32 +3,43 @@
 }
 h1{
  /*font-family: sans-serif;*/
- text-align: center;
+text-align: center;
 color: #9900ff;
+}
+h2 {
+  text-align: center;
 }
 
 .languages, .backend, .front-end, .dataBase, .others{
-  height: 167px;
+  height: 150px;
   width: 1020px;
   border: 2px solid green;
-  text-align: center;
-  margin-top: 10px;
 }
-/*img {;
-  border: 2px solid black;
-  border-radius: 50px;
+/*img {
+  margin-right: 30px;
+
 }*/
 
-img {
+.backend img {
   margin-right: 20px;
 }
-.front-end img {
+.dataBase img {
   margin-right: 20px;
 }
-#css {
+.others img {
+  margin-right: 20px;
+}
+/*#css {
   margin-left: 21.3px;
 }
 
 #html{
   margin-left: 11px;
+}*/
+.container, .logo {
+  border: 2px solid black;
+}
+.logo {
+  display: inline-block;
+  width: 200px;
 }
