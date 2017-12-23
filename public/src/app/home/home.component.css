@@ -112,7 +112,13 @@ a {
 /*.break {
   text-shadow:
 }*/
-
+/*div.header div.container-fluid {
+  width: 2000px;
+  height: 1000px;
+    border-top: 2px solid black;
+    background-image: url("landing.png");
+    background-repeat: no-repeat, repeat;
+}*/
 
 .break{
  /*font-family: sans-serif;*/

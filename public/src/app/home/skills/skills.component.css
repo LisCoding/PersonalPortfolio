@@ -8,38 +8,64 @@ color: #9900ff;
 }
 h2 {
   text-align: center;
+  color: #5c5757;
 }
 
 .languages, .backend, .front-end, .dataBase, .others{
   height: 150px;
   width: 1020px;
-  border: 2px solid green;
 }
 /*img {
   margin-right: 30px;
 
 }*/
 
-.backend img {
-  margin-right: 20px;
+.backend img, #amazon {
+  margin-right: 30px;
 }
+
 .dataBase img {
-  margin-right: 20px;
+  margin-right: 50px;
+}
+.front-end img {
+  margin-right: 50px;
 }
 .others img {
-  margin-right: 20px;
+  margin-right: 40px;
 }
-/*#css {
+.languages img {
+  margin-right: 40px;
+}
+#javaScript {
+  margin-left: 45px;
+  margin-right: 60px;
+}
+#ruby, #bootstrap, #mongoDB, #iOS {
+  margin-right: 0;
+}
+
+#css {
   margin-left: 21.3px;
 }
 
-#html{
-  margin-left: 11px;
-}*/
-.container, .logo {
-  border: 2px solid black;
+
+#html, #django{
+  margin-left: 20px;
 }
+
 .logo {
   display: inline-block;
   width: 200px;
+}
+#postgresql{
+  margin-left: 25px;
+}
+#gitHub {
+  margin-left: 15px;
+}
+#git {
+  margin-right: 10px;
+}
+#restful {
+  margin-right: 18px;
 }
