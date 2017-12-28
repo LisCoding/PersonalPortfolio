@@ -115,3 +115,23 @@ h5 {
 .info {
   margin-top: 15px;
 }
+.carousel-control-prev-icon{
+  background-image: url("next.png");
+  width: 30px;
+  height: 25px;
+}
+.carousel-control-next-icon{
+  background-image: url("prev.png");
+  width: 30px;
+  height: 25px;
+
+
+}
+
+.carousel-indicators li {
+  box-shadow: 1px 1px 3px grey;
+}
+
+.carousel-indicators .active {
+    background-color: #9900ff;
+}

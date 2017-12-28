@@ -512,6 +512,20 @@ module.exports = __webpack_require__.p + "project.682555c63d0a040b4cff.jpg";
 
 /***/ }),
 
+/***/ "../../../../../src/app/home/projects/next.png":
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "next.5ca143e4b71455e24315.png";
+
+/***/ }),
+
+/***/ "../../../../../src/app/home/projects/prev.png":
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "prev.2345bf417edc6a63c411.png";
+
+/***/ }),
+
 /***/ "../../../../../src/app/home/projects/projects.component.css":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -520,7 +534,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "\n.projects-list {\n  margin-top: 30px;\n}\n\n.image, .content {\n  display: inline-block;\n  vertical-align: top;\n\n}\n .content {\n   margin-left: 40px;\n   width: 400px;\n }\n\n .image {\n   margin-top: 22px;\n }\n p {\n   font-size: 16px;\n  margin-bottom: 0;\n }\n h1{\n  font-family: sans-serif;\n  text-align: center;\n  color: #9900ff;\n }\n .container {\n   width: 830px;\n   display: inline-block;\n   padding: 20px;\n   /*border: 2px solid black;*/\n   margin-top:10px;\n     vertical-align:bottom;\n }\n .carousel {\n   height: 500px;\n   width: 800px;\n\n }\n .carousel img {\n  /*position: absolute;\n  top: 0;\n  left: 0;*/\n  min-width: 100%;\n  height: 500px;\n}\n.block {\n  display: inline-block;\n  width:300px;\n  /*border: 2px solid green;*/\n  height: 550px;\n  vertical-align: bottom;\n  padding: 24px 0 0 20px;\n\n}\n.icons {\n  width: 70px;\n  height: 70px;\n}\n.icons1 {\n  width: 50px;\n  height: 50px;\n}\n.icons3 {\n  width: 60px;\n  height: 60px;\n}\n.icons2 {\n  width: 80px;\n  height: 55px;\n}\n#material {\n  margin:0 10px 0 30px;\n}\n#google-icon {\n  margin-right: 10px;\n}\n.title {\n  color: #9900ff;\n}\nh5 {\n  font-weight: bold;\n}\n.tech {\n  padding-bottom: 10px;\n}\n#concepts{\n  margin: 0;\n  text-align: center;\n}\n#kitties {\n  margin: 0;\n  padding-left: 30px;\n}\n.smart {\n  font-size: 14px;\n}\n.smart-li{\n  font-size: 12px;\n}\n.alarm-li{\n  font-size: 13px;\n}\n\n.alarm-p {\n    font-size: 15px;\n}\n\n.more-info{\n  padding-right: 40px;\n  font-size: 16px;\n  color:  #9900ff;\n}\n.info {\n  margin-top: 15px;\n}\n", ""]);
+exports.push([module.i, "\n.projects-list {\n  margin-top: 30px;\n}\n\n.image, .content {\n  display: inline-block;\n  vertical-align: top;\n\n}\n .content {\n   margin-left: 40px;\n   width: 400px;\n }\n\n .image {\n   margin-top: 22px;\n }\n p {\n   font-size: 16px;\n  margin-bottom: 0;\n }\n h1{\n  font-family: sans-serif;\n  text-align: center;\n  color: #9900ff;\n }\n .container {\n   width: 830px;\n   display: inline-block;\n   padding: 20px;\n   /*border: 2px solid black;*/\n   margin-top:10px;\n     vertical-align:bottom;\n }\n .carousel {\n   height: 500px;\n   width: 800px;\n\n }\n .carousel img {\n  /*position: absolute;\n  top: 0;\n  left: 0;*/\n  min-width: 100%;\n  height: 500px;\n}\n.block {\n  display: inline-block;\n  width:300px;\n  /*border: 2px solid green;*/\n  height: 550px;\n  vertical-align: bottom;\n  padding: 24px 0 0 20px;\n\n}\n.icons {\n  width: 70px;\n  height: 70px;\n}\n.icons1 {\n  width: 50px;\n  height: 50px;\n}\n.icons3 {\n  width: 60px;\n  height: 60px;\n}\n.icons2 {\n  width: 80px;\n  height: 55px;\n}\n#material {\n  margin:0 10px 0 30px;\n}\n#google-icon {\n  margin-right: 10px;\n}\n.title {\n  color: #9900ff;\n}\nh5 {\n  font-weight: bold;\n}\n.tech {\n  padding-bottom: 10px;\n}\n#concepts{\n  margin: 0;\n  text-align: center;\n}\n#kitties {\n  margin: 0;\n  padding-left: 30px;\n}\n.smart {\n  font-size: 14px;\n}\n.smart-li{\n  font-size: 12px;\n}\n.alarm-li{\n  font-size: 13px;\n}\n\n.alarm-p {\n    font-size: 15px;\n}\n\n.more-info{\n  padding-right: 40px;\n  font-size: 16px;\n  color:  #9900ff;\n}\n.info {\n  margin-top: 15px;\n}\n.carousel-control-prev-icon{\n  background-image: url(" + __webpack_require__("../../../../../src/app/home/projects/next.png") + ");\n  width: 30px;\n  height: 25px;\n}\n.carousel-control-next-icon{\n  background-image: url(" + __webpack_require__("../../../../../src/app/home/projects/prev.png") + ");\n  width: 30px;\n  height: 25px;\n\n\n}\n\n.carousel-indicators li {\n  box-shadow: 1px 1px 3px grey;\n}\n\n.carousel-indicators .active {\n    background-color: #9900ff;\n}\n", ""]);
 
 // exports
 
