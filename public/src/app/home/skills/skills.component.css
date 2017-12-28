@@ -2,9 +2,10 @@
   margin-top: 30px;
 }
 h1{
- /*font-family: sans-serif;*/
-text-align: center;
-color: #9900ff;
+ font-family: sans-serif;
+ text-align: center;
+ text-shadow: 2px 2px gray;
+ color: #9900ff;
 }
 h2 {
   text-align: center;
