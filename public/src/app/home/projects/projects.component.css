@@ -117,13 +117,13 @@ h5 {
 }
 .carousel-control-prev-icon{
   background-image: url("next.png");
-  width: 30px;
-  height: 25px;
+  width: 25px;
+  height: 20px;
 }
 .carousel-control-next-icon{
   background-image: url("prev.png");
-  width: 30px;
-  height: 25px;
+  width: 25px;
+  height: 20px;
 
 
 }
