@@ -30,14 +30,8 @@
    width: 830px;
    display: inline-block;
    padding: 20px;
-   /*border: 2px solid black;*/
    margin-top:10px;
-     vertical-align:bottom;
- }
- .carousel {
-   height: 500px;
-   width: 800px;
-
+   vertical-align:bottom;
  }
  .carousel img {
   /*position: absolute;
@@ -125,8 +119,6 @@ h5 {
   background-image: url("prev.png");
   width: 25px;
   height: 20px;
-
-
 }
 
 .carousel-indicators li {
