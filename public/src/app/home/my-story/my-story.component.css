@@ -12,7 +12,7 @@
     background-size: cover;
 }
 
-.profile-img, .story{
+.profile-img, .story, .container{
   display: inline-block;
   vertical-align: top;
   margin-top: 50px;
