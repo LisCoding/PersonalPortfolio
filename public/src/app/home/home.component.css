@@ -18,7 +18,6 @@ ul, li, a {
   	font-variant: normal;
   	line-height: 26.4px;
     color: #9900ff;
-
 }
 
 /* this is format the header links*/
@@ -28,15 +27,15 @@ a {
   font-family: sans-serif;
   font-weight: bold;
 }
-
 .parallax {
-  margin-top: 50px;
-    /* The image used */
-    background-image: url("project.jpg");
+  /* The image used */
+  background-image: url("project.jpg");
+}
 
+.parallax, .parallax-hobbies,.parallax-skills,.parallax-awards   {
+  margin-top: 40px;
     /* Set a specific height */
     min-height: 200px;
-
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -45,48 +44,19 @@ a {
 }
 /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
 @media only screen and (max-device-width: 1024px) {
-    .parallax {
+    .parallax, .parallax-skills, .parallax-awards, .parallax-hobbies {
         background-attachment: scroll;
     }
 }
 
 .parallax-skills {
-  margin-top: 50px;
-    /* The image used */
     background-image: url("skills.jpg");
-    /* Set a specific height */
-    min-height: 200px;
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .parallax-awards {
-  margin-top: 50px;
-    /* The image used */
     background-image: url("dreaming.jpg");
-
-    /* Set a specific height */
-    min-height: 200px;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .parallax-hobbies {
-  margin-top: 50px;
-    /* The image used */
     background-image: url("hobbie.jpg");
-    /* Set a specific height */
-    min-height: 200px;
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
