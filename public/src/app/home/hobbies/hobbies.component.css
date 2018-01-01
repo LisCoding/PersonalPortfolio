@@ -1,53 +1,20 @@
 h1{
- font-family: sans-serif;
- text-align: center;
- text-shadow: 2px 2px gray;
- color: #9900ff;
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: 2px 2px gray;
+  color: #9900ff;
 }
-
 h2 {
   font-family: sans-serif;
   text-align: center;
   margin-bottom: 20px;
 }
-
-/*.left-div, .right-div {
-  display: inline-block;
-  max-width: 550px;
-  border: 1px solid black;
-}*/
-/*.sports-img2{
-  margin-left: 80px;
-  width: 500px;
-  height: 550px;
-}*/
-/*.sports-img {
-  width: 500px;
-  height: 550px;
-  margin-left: 8px;
-}
-.hackathon-img2 {
-  width: 500px;
-  height: 300px;
-  margin-left: 80px;
-
-}
-.hackathon-img {
-  margin-left: 8px;
-  width: 500px;
-  height: 300px;
-}*/
 p {
   font-size: 17px;
 }
-
-/*.container{
-  border: 1px solid black;
-}*/
 .icons {
   width: 50px;
   height: 50px;
-  /*background-color:lightgrey;*/
 }
 a {
   color: #9900ff;
