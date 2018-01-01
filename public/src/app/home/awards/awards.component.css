@@ -13,14 +13,17 @@ h3 {
   margin-top: 0px;
   color: #9900ff;
 }
-.group{
+/*.group{
   width: 550px;
   height: 350px;
-}
+}*/
 .icons{
   width: 200px;
   height: 200px;
 }
 img {
   padding: 20px;
+}
+.card {
+  border: none;
 }
